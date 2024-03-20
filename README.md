@@ -5,7 +5,7 @@ The model is a custom YOLOv8 model made with Ultralytics python package. The mod
 The model can be found in the [results/weights]('./results/weights/') folder.
 
 ## Dataset
-The dataset is a custom dataset of 3 classes: 'potentiometer', 'limitswitch' and 'battery'. The dataset is made of 59 images and 59 annotations. The dataset can be found in the [dataset]('./dataset') folder.
+The dataset is a custom dataset of 3 classes: 'potentiometer', 'limitswitch' and 'battery'. The dataset is made of 59 images and 59 annotations. The dataset can be found in the [dataset]('./dataset') folder. The dataset is split into 2 folders called 'train' and 'val'. The 'test' folder was not used in this project.
 
 ## Statistics
 ### Model Statistics
