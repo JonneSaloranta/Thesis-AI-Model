@@ -1,0 +1,7 @@
+path: ../drive/MyDrive/thesis-ai-images/Dataset/Sorter
+train: ../train/
+val: ../valid/
+test: ../test/
+
+nc: 3
+names: ['limitswitch', 'battery', 'potentiometer']
