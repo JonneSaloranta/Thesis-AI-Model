@@ -18,7 +18,7 @@ The dataset is a custom dataset of 3 classes: 'potentiometer', 'limitswitch' and
 ![Model train_batch1](/results/train_batch1.jpg)
 ### Model train_batch2
 ![Model train_batch2](/results/train_batch2.jpg)
-### Model train_batch0
-![Model val_batch0_labels](/results/val_batch0_labels.jpg)
 ### Model val_batch0_labels
+![Model val_batch0_labels](/results/val_batch0_labels.jpg)
+### Model val_batch0_pred
 ![Model val_batch0_pred](/results/val_batch0_pred.jpg)
